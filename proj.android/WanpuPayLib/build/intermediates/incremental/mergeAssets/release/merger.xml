@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/shenvsv/Documents/game/wangyi/Gamee/proj.android/WanpuPayLib/assets" >
+            <file
+                name="312000100869399-Signature.pfx"
+                path="/Users/shenvsv/Documents/game/wangyi/Gamee/proj.android/WanpuPayLib/assets/312000100869399-Signature.pfx" />
+            <file
+                name="alipay-newmsp-5.1.0.apk"
+                path="/Users/shenvsv/Documents/game/wangyi/Gamee/proj.android/WanpuPayLib/assets/alipay-newmsp-5.1.0.apk" />
+            <file
+                name="payeco_plugin_config.xml"
+                path="/Users/shenvsv/Documents/game/wangyi/Gamee/proj.android/WanpuPayLib/assets/payeco_plugin_config.xml" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/shenvsv/Documents/game/wangyi/Gamee/proj.android/WanpuPayLib/src/release/assets" />
+    </dataSet>
+
+</merger>

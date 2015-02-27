@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/tang/code/Gamee/gamee/java/res" />
+        <source path="/Users/tang/code/Gamee/gamee/java/build/res/rs/debug" />
+        <source path="/Users/tang/code/Gamee/gamee/java/build/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/tang/code/Gamee/gamee/java/src/debug/res" />
+    </dataSet>
+
+</merger>

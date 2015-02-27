@@ -1,0 +1,7 @@
+include ':main'
+
+include ':java'
+
+include ':WanpuPayLib'
+
+include ':CaptureActivity'

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alipay_msp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WanpuPayLib/libs/alipay_msp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,55 @@
+Cocos2d: 
+<dict>
+	cocos2d.x.version: 2.2.3
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: NVIDIA Corporation
+	gl.renderer: NVIDIA GeForce GT 750M OpenGL Engine
+	gl.version: 2.1 NVIDIA-8.26.26 310.40.45f01
+	gl.max_texture_size: 16384
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+Cocos2d: lua_loadChunksFromZIP() - load zip file: /Users/shenvsv/Documents/game/quick-cocos2d-x/lib/framework_precompiled/framework_precompiled.zip
+Cocos2d: lua_loadChunksFromZIP() - loaded chunks count: 108
+Cocos2d: ------------------------------------------------
+Cocos2d: LOAD LUA FILE: /Users/shenvsv/Documents/game/wangyi/Gamee/scripts/main.lua
+Cocos2d: ------------------------------------------------
+Cocos2d: [0.0157] [INFO] 
+Cocos2d: [0.0157] [INFO] # DEBUG                        = 1
+Cocos2d: [0.0157] [INFO] #
+Cocos2d: [0.0158] [INFO] # device.platform              = mac
+Cocos2d: [0.0158] [INFO] # device.model                 = unknown
+Cocos2d: [0.0158] [INFO] # device.language              = cn
+Cocos2d: [0.0158] [INFO] # device.writablePath          = /Users/shenvsv/Documents/game/wangyi/Gamee/
+Cocos2d: [0.0158] [INFO] # device.cachePath             = /Users/shenvsv/Documents/game/wangyi/Gamee/
+Cocos2d: [0.0158] [INFO] # device.directorySeparator    = /
+Cocos2d: [0.0158] [INFO] # device.pathSeparator         = :
+Cocos2d: [0.0158] [INFO] #
+Cocos2d: [0.0170] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+Cocos2d: [0.0170] [INFO] # CONFIG_SCREEN_WIDTH          = 640.00
+Cocos2d: [0.0170] [INFO] # CONFIG_SCREEN_HEIGHT         = 960.00
+Cocos2d: [0.0170] [INFO] # display.widthInPixels        = 640.00
+Cocos2d: [0.0170] [INFO] # display.heightInPixels       = 960.00
+Cocos2d: [0.0170] [INFO] # display.contentScaleFactor   = 1.00
+Cocos2d: [0.0170] [INFO] # display.width                = 640.00
+Cocos2d: [0.0170] [INFO] # display.height               = 960.00
+Cocos2d: [0.0170] [INFO] # display.cx                   = 320.00
+Cocos2d: [0.0170] [INFO] # display.cy                   = 480.00
+Cocos2d: [0.0170] [INFO] # display.left                 = 0.00
+Cocos2d: [0.0170] [INFO] # display.right                = 640.00
+Cocos2d: [0.0170] [INFO] # display.top                  = 960.00
+Cocos2d: [0.0170] [INFO] # display.bottom               = 0.00
+Cocos2d: [0.0170] [INFO] # display.c_left               = -320.00
+Cocos2d: [0.0170] [INFO] # display.c_right              = 320.00
+Cocos2d: [0.0170] [INFO] # display.c_top                = 480.00
+Cocos2d: [0.0170] [INFO] # display.c_bottom             = -480.00
+Cocos2d: [0.0170] [INFO] #
+Cocos2d: CCHTTPRequest[0x0001] - create request with url: http://115.29.110.108/game
+Cocos2d: [0.7381] {"board":[{"score":"310","id":"22","nick":"李伟国"},{"score":"300","id":"9","nick":"点此输入用户名"},{"score":"280","id":"13","nick":"bacoo"},{"score":"250","id":"11","nick":"宗泽SB"},{"score":"230","id":"12","nick":"xci"},{"score":"223","id":"15","nick":"ookoo"},{"score":"200","id":"6","nick":"小夏"},{"score":"188","id":"26","nick":"王+佳"},{"score":"143","id":"21","nick":"欧阳芳"},{"score":"140","id":"14","nick":"orion"},{"score":"123","id":"16","nick":"同志"},{"score":"105","id":"2","nick":"小丽"},{"score":"97","id":"23","nick":"cicicix"},{"score":"96","id":"28","nick":"蝦子"},{"score":"90","id":"8","nick":"杨过"},{"score":"90","id":"4","nick":"Ruby"},{"score":"77","id":"27","nick":"范宏伟"},{"score":"67","id":"25","nick":"南拜星"},{"score":"65","id":"10","nick":"小娘子"},{"score":"60","id":"7","nick":"及格"},{"score":"50","id":"3","nick":"Bob"}],"power":{"value":75,"time":1407897240},"gamename":"翻图大作战2","rank":23,"status":"ok","score":"22"}
+
+Cocos2d: CCHTTPRequest[0x0001] - request removed

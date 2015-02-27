@@ -1,0 +1,7 @@
+target/
+*.iml
+build/*
+bin/
+gen/
+libs/
+local.properties

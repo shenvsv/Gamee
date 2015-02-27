@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/payecopluginjar-f730bf688d31717955b616c5956ac18bc0a902a7.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/payecopluginjar.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3bc742bf63513823d207bb111b8722e59c1ab80a"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/UPPayPluginEx-899f9d36028add46167e1ea16528a68626451fd4.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/UPPayPluginEx.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="c1420bdfa06e7e2834e6ae1b6d798d23dab558bc"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/android-support-v4-4dd8f8a750a5a38f52055ea3cca262d2cc2bf4d1.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="307c1cc532eabbf1d135b43e5c983c9da700449d"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/alipay_msp-cc54b33869f8c04e24f834ecda88312e5a58ae14.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/alipay_msp.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="cea297259e69635a6448449a6852f4c6161a07c9"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/WanpuPay_4.0-049d336dc67d69d1e84ca9156fc71c8c6f01844a.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/WanpuPay_4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e99fd8a4cc9682f283399c230aa04f1fdb95a434"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/classes-fd9dba3e357f22d530aac37f9e2a25400810b3d4.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/CaptureActivity/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="579b3abe7c8bd03c9de649e04e33e4f36407aec0"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/classes-737cdb1d76929d6372b22725cfcbc24c3da0532c.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7ecd4fbc1b56eac8124c00ae17f1c5b3d48ca27a"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/classes-e6a6f6795a654bb079078644022ea9d6c88357aa.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/java/unspecified/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="159291ca2ad523f7d0aceb4382d592a3b7e01e5f"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/TenpayServiceSDK_V5.0-e0a653ec8efd9385c924b45f7a378c1400ed5a4e.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/TenpayServiceSDK_V5.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5329605c8b48dcb9ddcf48067b292b84b5d3f979"/>
+    <item
+        dex="/Users/tang/code/newgames/gamee/proj.android/build/pre-dexed/debug/UPPayAssistEx-132ad4ac589882c8814156af454e7a6d9505a19d.jar"
+        jar="/Users/tang/code/newgames/gamee/build/exploded-aar/Gamee/WanpuPayLib/unspecified/libs/UPPayAssistEx.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b675dbd1bf86da4baa774db5f339d90a9bb1fcad"/>
+
+</pre-dex-items>
